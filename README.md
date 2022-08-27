@@ -6,3 +6,4 @@ It can be very useful when escalating privileges in CTF, but it will work in any
 
 **How's work?**
 
+- **LXD**:
