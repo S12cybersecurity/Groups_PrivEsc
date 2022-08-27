@@ -40,6 +40,10 @@ The last group that exploits my Script is MICROKUBS, this group is very similar 
 
 This script can fail because there is a file called pod.yaml that has given me problems on different machines, but on most it works.
 
-For more information visit this good article:
+For more information of MICROKUBS visit this good article:
 
 https://prophaze.com/cve/privilege-escalation-vulnerability-in-microk8s-allows-a-low-privilege-user-with-local-access-to-obtain-root-access-to-the-host-by-provisioning-a-privileged-container-fixed-in-microk8s-1-15-3/
+
+S12 :)
+
+Thanks.
