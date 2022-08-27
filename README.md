@@ -34,4 +34,12 @@ In this case, what my script does is list the files with which the disk group ca
 
 The fourth group that my Script exploits is the Shadow group, as its name indicates this group allows you to read the /etc/shadow file, my script simply runs a cat on this file so that you can try to crack the hashes inside it offline of the file.
 
-- ****
+- **MICROKUBS**
+
+The last group that exploits my Script is MICROKUBS, this group is very similar to the first two, but with a Kubernetes theme.
+
+This script can fail because there is a file called pod.yaml that has given me problems on different machines, but on most it works.
+
+For more information visit this good article:
+
+https://prophaze.com/cve/privilege-escalation-vulnerability-in-microk8s-allows-a-low-privilege-user-with-local-access-to-obtain-root-access-to-the-host-by-provisioning-a-privileged-container-fixed-in-microk8s-1-15-3/
